@@ -11,7 +11,7 @@ Packing Tape
 
 Getting your Python packages ready to ship.
 
-* Free software: BSD license
+* Free software: MIT license
 * Documentation: https://packingtape.readthedocs.org.
 
 Features
